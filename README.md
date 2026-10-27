@@ -44,12 +44,14 @@ In the film industry, high capital investments carry massive financial risks. St
 ## 🚀 How to Run the Project
 ```bash
 # Clone this repository
-git clone [https://github.com/Thaynacarvalho98/movie-blockbuster-analysis.git](https://github.com/Thaynacarvalho98/movie-blockbuster-analysis.git)
+git clone (https://github.com/Thaynacarvalho98/movie-blockbuster-analysis.git)
 
 # Install required dependencies
 pip install pandas numpy matplotlib seaborn
 
 # Run the exploratory analysis script
 python analysis_blockbusters.py
+
+```
 
 ⌨️ Developed by Thayná Marques | LinkedIn (https://www.linkedin.com/in/thayna-m-carvalho)
